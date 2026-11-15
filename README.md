@@ -20,16 +20,7 @@ I'm passionate about transforming raw data into meaningful insights using data a
 
 📂 Projects
 
-1. Sales & Manager Performance Analysis
-
-- Analyzed sales trends and profitability.
-- Used SQL for data analysis.
-- Built an interactive Power BI dashboard.
-- Created KPI metrics using DAX.
-
-Tools: Excel, SQL, Power BI
-
-2. HR Analysis Dashboard
+1. HR Analysis Dashboard
 
 - Analyzed employee attrition.
 - Studied department-wise employee data.
