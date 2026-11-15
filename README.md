@@ -1,6 +1,8 @@
 Hi there, I'm Sandhiya M 👋
 
-Aspiring Data Analyst | B.Sc Computer Science Graduate (2026)
+Aspiring Data Analyst | Power BI | SQL | Excel | Python
+
+Welcome to my GitHub portfolio!
 
 I'm passionate about transforming raw data into meaningful insights using data analysis and visualization.
 
